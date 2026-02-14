@@ -23,7 +23,7 @@ Mais, Street Fighter II c'est avant tout les bases du jeu de combat 2D tel que n
 
 **Street Fighter II' - Champion Edition**  
 
-Sorti quelques temps après Street Fighter II, cette nouvelle version n'apporte pour ainsi dire rien de neuf. L'équilibre des combattants a été revu et amélioré tandis que la vitesse générale du jeu a été augmentée. On notera l'impossibilité de jouer avec les 4 boss du jeu (Vega, Sagat, Balrog, M. Bison) tout comme dans le volet précédent.  
+Sorti quelques temps après Street Fighter II, cette nouvelle version n'apporte pour ainsi dire rien de neuf. L'équilibre des combattants a été revu et amélioré tandis que la vitesse générale du jeu a été augmentée. La grande nouveauté de cette version "Champion Edition" est de pouvoir jouer avec les 4 boss du jeu (avec leur noms japonais M. Bison, Balrog, Sagat et Vega le boss de fin).  
 
   
 
@@ -64,5 +64,6 @@ Plus de 10 ans que Capcom nous sert du Street Fighter et on en redemande encore 
 _Existe également sur (Street Fighter II) :_ _Amiga, Amstrad CPC, Atari ST, C64, Game Boy, MAME, PC, PlayStation, PlayStation 2, Sinclair ZX Spectrum, Super Nintendo, XBOX_  
 
 _Existe également sur (Street Fighter II') :_ _MAME, Megadrive, PC, PC Engine, PlayStation, PlayStation 2, Super Nintendo, XBOX_  
+
 
 _Existe également sur (Street Fighter II' Turbo) :_ _MAME, Megadrive, PlayStation, PlayStation 2, Super Nintendo, XBOX_
